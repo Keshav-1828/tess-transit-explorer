@@ -24,7 +24,7 @@
 
 ---
 
-## 🚀 Quick Start
+ Quick Start
 
 ### Local installation
 
@@ -55,7 +55,7 @@ The app opens automatically at `http://localhost:8501`.
 
 ---
 
-## 🗂️ Project Structure
+Project Structure
 
 ```
 tess-transit-explorer/
@@ -88,7 +88,7 @@ tess-transit-explorer/
 
 ---
 
-## 🧪 Running Tests
+ Running Tests
 
 ```bash
 # Install test dependencies
@@ -113,7 +113,7 @@ tests/test_processing.py::TestPlanetRadius::test_earth_analogue            PASSE
 
 ---
 
-## 🎯 Example: Pi Mensae (TIC 261136679)
+ Example: Pi Mensae (TIC 261136679)
 
 Pi Mensae hosts two known planets, including **Pi Men c** — a Super-Earth
 discovered by TESS with an orbital period of **~6.27 days**. Enter
@@ -127,7 +127,7 @@ discovered by TESS with an orbital period of **~6.27 days**. Enter
 
 ---
 
-## 📡 Data Sources
+Data Sources
 
 | Source | Used For |
 |---|---|
@@ -138,7 +138,7 @@ discovered by TESS with an orbital period of **~6.27 days**. Enter
 
 ---
 
-## 🤝 Contributing
+ Contributing
 
 1. Fork the repo
 2. Create a feature branch: `git checkout -b feature/my-feature`
@@ -149,13 +149,13 @@ Please add or update tests in `tests/` for any new processing logic.
 
 ---
 
-## 📄 License
+License
 
 This project is licensed under the **MIT License** — see [LICENSE](LICENSE) for details.
 
 ---
 
-## 🙏 Acknowledgements
+ Acknowledgements
 
 - **NASA / MIT TESS Mission** for making exoplanet data publicly available
 - **lightkurve** development team at the Space Telescope Science Institute
